@@ -1,3 +1,3 @@
 # explorer-marathon
 
-Aplicativo pra revelar o destino, desenvolvido na Maratona Explorer 1 da Rocketseat.
+Aplicativo pra revelar o destino ao fazer uma pergunta, desenvolvido na Maratona Explorer 1 da Rocketseat.
