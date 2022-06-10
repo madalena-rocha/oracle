@@ -1,3 +1,3 @@
 # oracle
 
-Aplicativo pra revelar o destino ao fazer uma pergunta, desenvolvido na Maratona Explorer 1 da Rocketseat.
+Aplicação desenvolvida na Maratona Explorer 1 da Rocketseat para simular um oráculo realizando a previsão do futuro, devendo retornar ao usuário uma resposta ao fazer determinada pergunta.
